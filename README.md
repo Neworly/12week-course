@@ -5,12 +5,12 @@ As example: A capable computer system must, if possible, find always a new road.
 **Be aware! this is no-ordinary beginner course.** 
  
 # Weeks and subjects 
-week 1: 
-week 2: 
-week 3: 
-week 4: 
-week 5: 
-week 6:  
+week 1:  
+week 2:  
+week 3:  
+week 4:  
+week 5:  
+week 6:   
 week 7:  
 week 8:  
 week 9:  
