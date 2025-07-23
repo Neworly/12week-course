@@ -4,7 +4,7 @@ As example: A capable computer system must, if possible, find always a new road.
 
 **Be aware! this is no-ordinary beginner course.**
 
-#Weeks and subjects
+# Weeks and subjects
 week 1:
 week 2:
 week 3:
