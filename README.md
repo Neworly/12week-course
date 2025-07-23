@@ -19,7 +19,7 @@ week 11:
 week 12:
 
 # Homework
-Each; will have a deadline, if you miss it, your homework may not be reviewed.
+Each; will have a deadline, if you miss it, your homework may not be reviewed.  
 Will be analyzed at best of the non-qualified teacher's abilities, and the student can propose some areas where improvement seems possible in a program, the non-qualified teacher will attempt to find a way and describe it generally.
 Will be awarded with points based on the homework performance.
 
