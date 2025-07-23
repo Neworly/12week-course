@@ -1,4 +1,4 @@
-#Scope
+# Scope
 The scope of this course wants you become what the non-qualified teacher beliefs are of being capable.
 As example: A capable computer system must, if possible, find always a new road.
 
@@ -18,7 +18,7 @@ week 10:
 week 11:
 week 12:
 
-#Homework
+# Homework
 Each; will have a deadline, if you miss it, your homework may not be reviewed.
 Will be analyzed at best of the non-qualified teacher's abilities, and the student can propose some areas where improvement seems possible in program, the non-qualified teacher will attempt to find a way and describe it generally.
 Will be awarded with points based on the homework performance.
