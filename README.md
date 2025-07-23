@@ -1,5 +1,5 @@
 # Scope
-The scope of this course wants you become what the non-qualified teacher beliefs are of being capable.
+The scope of this course wants you to become what the non-qualified teacher beliefs are of being capable.
 As example: A capable computer system must, if possible, find always a new road.
 
 **Be aware! this is no-ordinary beginner course.**
