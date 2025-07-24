@@ -5,7 +5,7 @@ As example: A capable computer system must, if possible, find always a new road.
 **Be aware! this is no-ordinary beginner course.** 
  
 # Weeks and subjects   
-week 0: an introduction to pascal
+week 0: __an introduction to pascal__  
 week 1:  
 week 2:  
 week 3:  
